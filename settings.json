@@ -1,0 +1,17 @@
+{
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Dawn",
+    "editor.fontSize": 10,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.renderLineHighlight": "none",
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground":"#f1f1f1",
+        "editorIndentGuide.background":"#f1f1f1"
+    }
+}
+
+//vscode settings file
