@@ -11,7 +11,9 @@
     "workbench.colorCustomizations": {
         "editorIndentGuide.activeBackground":"#f1f1f1",
         "editorIndentGuide.background":"#f1f1f1"
-    }
+    },
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.editor.enablePreview": false,
+    "C_Cpp.default.intelliSenseMode": "gcc-x64"
 }
-
 //vscode settings file
